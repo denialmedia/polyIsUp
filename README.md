@@ -34,6 +34,9 @@ Jason Kingery
 [@denialmedia](https://twitter.com/denialmedia)
 
 ## Version History
+* 0.3
+    * Cleaned Up
+
 * 0.2
     * Added Screenshot
 
