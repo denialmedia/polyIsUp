@@ -3,6 +3,9 @@
 Simple polybar module for checking if a site is up using the is-up-cli a isitup.org cli api wrapper.
 [sindresorhus](https://github.com/sindresorhus/is-up-cli)
 
+## Screenshot
+![Polybar Screenshot](/screenshots/screenshot.png?raw=true "Screenshot")
+
 ## Getting Started
 
 ### Dependencies
@@ -31,6 +34,8 @@ Jason Kingery
 [@denialmedia](https://twitter.com/denialmedia)
 
 ## Version History
+* 0.2
+    * Added Screenshot
 
 * 0.1
     * Initial Release
